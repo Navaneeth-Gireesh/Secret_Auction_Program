@@ -21,4 +21,4 @@ Ensure you have Python installed on your machine. You can download Python from [
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/secret-auction-program.git
+   git clone https://github.com/Navaneeth-Gireesh/Secret_Auction_Program.git
